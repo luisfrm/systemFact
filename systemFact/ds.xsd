@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ds" targetNamespace="http://tempuri.org/ds.xsd" xmlns:mstns="http://tempuri.org/ds.xsd" xmlns="http://tempuri.org/ds.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="conexion" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="conexion (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.MasterFact.My.MySettings.GlobalReference.Default.conexion" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="comprobante1TableAdapter" GeneratorDataComponentClassName="comprobante1TableAdapter" Name="comprobante1" UserDataComponentName="comprobante1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="conexion (MySettings)" DbObjectName="" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ID Venta, Nombre, Apellido, DNI, Fecha de venta, Documento, Num documento, Producto, Cantidad, Precio unitario, Precio de venta FROM tienda.comprobante1</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ds" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="ds" msprop:Generator_UserDSName="ds">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="comprobante1" msprop:Generator_TableClassName="comprobante1DataTable" msprop:Generator_TableVarName="tablecomprobante1" msprop:Generator_TablePropName="comprobante1" msprop:Generator_RowDeletingName="comprobante1RowDeleting" msprop:Generator_RowChangingName="comprobante1RowChanging" msprop:Generator_RowEvHandlerName="comprobante1RowChangeEventHandler" msprop:Generator_RowDeletedName="comprobante1RowDeleted" msprop:Generator_UserTableName="comprobante1" msprop:Generator_RowChangedName="comprobante1RowChanged" msprop:Generator_RowEvArgName="comprobante1RowChangeEvent" msprop:Generator_RowClassName="comprobante1Row">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

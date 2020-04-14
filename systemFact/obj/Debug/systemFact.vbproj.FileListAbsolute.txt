@@ -1,0 +1,78 @@
+c:\users\clases\documents\visual studio 2013\Projects\systemFact\systemFact\bin\Debug\systemFact.exe.config
+c:\users\clases\documents\visual studio 2013\Projects\systemFact\systemFact\bin\Debug\systemFact.exe
+c:\users\clases\documents\visual studio 2013\Projects\systemFact\systemFact\bin\Debug\systemFact.pdb
+c:\users\clases\documents\visual studio 2013\Projects\systemFact\systemFact\bin\Debug\systemFact.xml
+c:\users\clases\documents\visual studio 2013\Projects\systemFact\systemFact\obj\Debug\systemFact.Resources.resources
+c:\users\clases\documents\visual studio 2013\Projects\systemFact\systemFact\obj\Debug\systemFact.vbproj.GenerateResource.Cache
+c:\users\clases\documents\visual studio 2013\Projects\systemFact\systemFact\obj\Debug\systemFact.exe
+c:\users\clases\documents\visual studio 2013\Projects\systemFact\systemFact\obj\Debug\systemFact.xml
+c:\users\clases\documents\visual studio 2013\Projects\systemFact\systemFact\obj\Debug\systemFact.pdb
+c:\users\clases\documents\visual studio 2013\Projects\systemFact\systemFact\obj\Debug\systemFact.Login.resources
+G:\Projects\VB.NET\systemFact\systemFact\bin\Debug\MySql.Data.dll
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\systemFact.vbprojResolveAssemblyReference.cache
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\systemFact.vbproj.GenerateResource.Cache
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\bin\Debug\systemFact.exe.config
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\obj\Debug\systemFact.exe
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\obj\Debug\systemFact.xml
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\obj\Debug\systemFact.pdb
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\bin\Debug\systemFact.exe
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\bin\Debug\systemFact.pdb
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\bin\Debug\systemFact.xml
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\obj\Debug\systemFact.vbprojResolveAssemblyReference.cache
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\obj\Debug\systemFact.listadoClientes.resources
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\obj\Debug\systemFact.Login.resources
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\obj\Debug\systemFact.Resources.resources
+C:\Users\MariviGym\Documents\VB.NET\systemFact\systemFact\obj\Debug\systemFact.vbproj.GenerateResource.Cache
+G:\Projects\VB.NET\systemFact\systemFact\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\Projects\VB.NET\systemFact\systemFact\bin\Debug\MasterFact.exe.config
+G:\Projects\VB.NET\systemFact\systemFact\bin\Debug\MasterFact.exe.manifest
+G:\Projects\VB.NET\systemFact\systemFact\bin\Debug\MasterFact.application
+G:\Projects\VB.NET\systemFact\systemFact\bin\Debug\MasterFact.exe
+G:\Projects\VB.NET\systemFact\systemFact\bin\Debug\MasterFact.pdb
+G:\Projects\VB.NET\systemFact\systemFact\bin\Debug\MasterFact.xml
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.auxClientes.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.frmdetalle.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.Inicio.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.auxCategorias.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.listadoProductos.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.formato.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.listadoCategorias.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.listadoClientes.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.Login.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.frmventa.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.Resources.resources
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.TrustInfo.xml
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.exe.manifest
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.application
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.exe
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.xml
+G:\Projects\VB.NET\systemFact\systemFact\obj\Debug\MasterFact.pdb
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\bin\Debug\MasterFact.exe.config
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.exe
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.xml
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.pdb
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\systemFact.vbprojResolveAssemblyReference.cache
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.auxClientes.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.frmdetalle.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.Inicio.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.auxCategorias.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.listadoProductos.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.formato.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.listadoCategorias.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.listadoClientes.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.Login.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.frmventa.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.Resources.resources
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\systemFact.vbproj.GenerateResource.Cache
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\bin\Debug\MasterFact.exe.manifest
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\bin\Debug\MasterFact.application
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\bin\Debug\MasterFact.exe
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\bin\Debug\MasterFact.pdb
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\bin\Debug\MasterFact.xml
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.TrustInfo.xml
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.exe.manifest
+G:\Projects\VB.NET\SQLServer\systemFact\systemFact\obj\Debug\MasterFact.application
+C:\Users\User\Documents\Visual Studio 2013\Projects\systemFact\systemFact\bin\Debug\MasterFact.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\systemFact\systemFact\obj\Debug\MasterFact.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\systemFact\systemFact\obj\Debug\MasterFact.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\systemFact\systemFact\obj\Debug\MasterFact.pdb
